@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About Me
-I am a cybersecurity undergraduate focused on **Defensive Operations, Network Traffic Analysis, and SIEM Log Triage**. I enjoy building transparent security tools in Python to understand network attacks at the packet level—from crafting raw Layer 2/3 attack signatures to detecting them and formatting telemetry for **Splunk SIEM** ingestion.
+I am a cybersecurity undergraduate focused on **Defensive Operations, Network Traffic Analysis, and SIEM Log Triage**. I enjoy building transparent security tools in Python to understand network attacks at the packet level from crafting raw Layer 2/3 attack signatures to detecting them and formatting telemetry for **Splunk SIEM** ingestion.
 
 * 🔭 **Current Focus:** Threat detection engineering, packet inspection (`Scapy` / `Wireshark`), and Splunk (`SPL`) log investigations.
 * 🎓 **Credentials:** Cisco CCNA: Introduction to Networks (ITN) | TryHackMe SOC Analyst Pathway.
